@@ -1,0 +1,1 @@
+javap -c -p CustomCase.class > decompile.txt

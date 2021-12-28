@@ -1,0 +1,36 @@
+Compiled from "CustomCase.java"
+public class org.fade.demo.streamdemo.lambda.CustomCase {
+  public org.fade.demo.streamdemo.lambda.CustomCase();
+    Code:
+       0: aload_0
+       1: invokespecial #1                  // Method java/lang/Object."<init>":()V
+       4: return
+
+  public static void main(java.lang.String[]);
+    Code:
+       0: ldc           #2                  // String Hello Fade
+       2: astore_1
+       3: ldc           #2                  // String Hello Fade
+       5: new           #3                  // class org/fade/demo/streamdemo/lambda/CustomCase$1
+       8: dup
+       9: invokespecial #4                  // Method org/fade/demo/streamdemo/lambda/CustomCase$1."<init>":()V
+      12: invokestatic  #5                  // Method print:(Ljava/lang/Object;Lorg/fade/demo/streamdemo/lambda/MyFunctionalInterface;)V
+      15: ldc           #2                  // String Hello Fade
+      17: invokedynamic #6,  0              // InvokeDynamic #0:accept:()Lorg/fade/demo/streamdemo/lambda/MyFunctionalInterface;
+      22: invokestatic  #5                  // Method print:(Ljava/lang/Object;Lorg/fade/demo/streamdemo/lambda/MyFunctionalInterface;)V
+      25: return
+
+  public static <T> void print(T, org.fade.demo.streamdemo.lambda.MyFunctionalInterface<T>);
+    Code:
+       0: aload_1
+       1: aload_0
+       2: invokeinterface #7,  2            // InterfaceMethod org/fade/demo/streamdemo/lambda/MyFunctionalInterface.accept:(Ljava/lang/Object;)V
+       7: return
+
+  private static void lambda$main$0(java.lang.String);
+    Code:
+       0: getstatic     #8                  // Field java/lang/System.out:Ljava/io/PrintStream;
+       3: aload_0
+       4: invokevirtual #9                  // Method java/io/PrintStream.println:(Ljava/lang/String;)V
+       7: return
+}
