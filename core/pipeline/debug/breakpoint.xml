@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+    <component name="XDebuggerManager">
+        <breakpoint-manager>
+            <breakpoints>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$USER_HOME$/.jdks/corretto-11.0.13/lib/src.zip!/java.base/java/util/Collection.java</url>
+                    <line>710</line>
+                    <option name="timeStamp" value="1" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$USER_HOME$/.jdks/corretto-11.0.13/lib/src.zip!/java.base/java/util/stream/StreamSupport.java</url>
+                    <line>67</line>
+                    <option name="timeStamp" value="2" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$USER_HOME$/.jdks/corretto-11.0.13/lib/src.zip!/java.base/java/util/stream/ReferencePipeline.java</url>
+                    <line>162</line>
+                    <option name="timeStamp" value="3" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$USER_HOME$/.jdks/corretto-11.0.13/lib/src.zip!/java.base/java/util/stream/ReferencePipeline.java</url>
+                    <line>639</line>
+                    <option name="timeStamp" value="4" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$USER_HOME$/.jdks/corretto-11.0.13/lib/src.zip!/java.base/java/util/stream/ReferencePipeline.java</url>
+                    <line>83</line>
+                    <option name="timeStamp" value="5" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$USER_HOME$/.jdks/corretto-11.0.13/lib/src.zip!/java.base/java/util/stream/AbstractPipeline.java</url>
+                    <line>181</line>
+                    <option name="timeStamp" value="6" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$USER_HOME$/.jdks/corretto-11.0.13/lib/src.zip!/java.base/java/util/stream/ReferencePipeline.java</url>
+                    <line>695</line>
+                    <option name="timeStamp" value="7" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$USER_HOME$/.jdks/corretto-11.0.13/lib/src.zip!/java.base/java/util/stream/ReferencePipeline.java</url>
+                    <line>93</line>
+                    <option name="timeStamp" value="8" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$USER_HOME$/.jdks/corretto-11.0.13/lib/src.zip!/java.base/java/util/stream/AbstractPipeline.java</url>
+                    <line>203</line>
+                    <option name="timeStamp" value="9" />
+                </line-breakpoint>
+            </breakpoints>
+        </breakpoint-manager>
+    </component>
+</project>

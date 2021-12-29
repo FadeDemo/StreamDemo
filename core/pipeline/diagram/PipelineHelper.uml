@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>java.util.stream.PipelineHelper</OriginalElement>
+  <nodes>
+    <node x="154.19711538461536" y="78.0">java.util.stream.Stream</node>
+    <node x="0.0" y="244.0">java.util.stream.ReferencePipeline.Head</node>
+    <node x="465.0" y="244.0">java.util.stream.ReferencePipeline.StatefulOp</node>
+    <node x="189.49999999999997" y="0.0">java.util.stream.BaseStream</node>
+    <node x="302.19711538461536" y="78.0">java.util.stream.AbstractPipeline</node>
+    <node x="383.49999999999994" y="0.0">java.util.stream.PipelineHelper</node>
+    <node x="188.49999999999997" y="156.0">java.util.stream.ReferencePipeline</node>
+    <node x="209.99999999999997" y="244.0">java.util.stream.ReferencePipeline.StatelessOp</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="java.util.stream.ReferencePipeline" target="java.util.stream.AbstractPipeline" relationship="GENERALIZATION">
+      <point x="69.5" y="-14.0" />
+      <point x="397.0" y="131.0" />
+      <point x="443.19711538461536" y="131.0" />
+      <point x="0.0" y="14.0" />
+    </edge>
+    <edge source="java.util.stream.ReferencePipeline" target="java.util.stream.Stream" relationship="REALIZATION">
+      <point x="-69.5" y="-14.0" />
+      <point x="258.0" y="131.0" />
+      <point x="218.19711538461536" y="131.0" />
+      <point x="0.0" y="14.0" />
+    </edge>
+    <edge source="java.util.stream.ReferencePipeline.StatelessOp" target="java.util.stream.ReferencePipeline" relationship="INNER_CLASS">
+      <point x="-58.75" y="-14.0" />
+      <point x="268.75" y="224.0" />
+      <point x="322.5" y="224.0" />
+      <point x="322.5" y="204.0" />
+      <point x="258.0" y="204.0" />
+      <point x="-69.5" y="14.0" />
+    </edge>
+    <edge source="java.util.stream.ReferencePipeline.StatefulOp" target="java.util.stream.ReferencePipeline" relationship="INNER_CLASS">
+      <point x="-57.0" y="-14.0" />
+      <point x="522.0" y="224.0" />
+      <point x="322.5" y="224.0" />
+      <point x="322.5" y="204.0" />
+      <point x="258.0" y="204.0" />
+      <point x="-69.5" y="14.0" />
+    </edge>
+    <edge source="java.util.stream.ReferencePipeline.Head" target="java.util.stream.ReferencePipeline" relationship="INNER_CLASS">
+      <point x="-47.5" y="-14.0" />
+      <point x="47.5" y="224.0" />
+      <point x="322.5" y="224.0" />
+      <point x="322.5" y="204.0" />
+      <point x="258.0" y="204.0" />
+      <point x="-69.5" y="14.0" />
+    </edge>
+    <edge source="java.util.stream.ReferencePipeline.Head" target="java.util.stream.ReferencePipeline" relationship="GENERALIZATION">
+      <point x="47.5" y="-14.0" />
+      <point x="142.5" y="214.0" />
+      <point x="332.5" y="214.0" />
+      <point x="332.5" y="204.0" />
+      <point x="397.0" y="204.0" />
+      <point x="69.5" y="14.0" />
+    </edge>
+    <edge source="java.util.stream.AbstractPipeline" target="java.util.stream.BaseStream" relationship="REALIZATION">
+      <point x="-70.5" y="-14.0" />
+      <point x="372.69711538461536" y="53.0" />
+      <point x="320.0" y="53.0" />
+      <point x="43.5" y="14.0" />
+    </edge>
+    <edge source="java.util.stream.Stream" target="java.util.stream.BaseStream" relationship="INTERFACE_GENERALIZATION">
+      <point x="0.0" y="-14.0" />
+      <point x="218.19711538461536" y="53.0" />
+      <point x="232.99999999999997" y="53.0" />
+      <point x="-43.5" y="14.0" />
+    </edge>
+    <edge source="java.util.stream.ReferencePipeline.StatelessOp" target="java.util.stream.ReferencePipeline" relationship="GENERALIZATION">
+      <point x="58.75" y="-14.0" />
+      <point x="386.25" y="214.0" />
+      <point x="332.5" y="214.0" />
+      <point x="332.5" y="204.0" />
+      <point x="397.0" y="204.0" />
+      <point x="69.5" y="14.0" />
+    </edge>
+    <edge source="java.util.stream.AbstractPipeline" target="java.util.stream.PipelineHelper" relationship="GENERALIZATION">
+      <point x="70.5" y="-14.0" />
+      <point x="513.6971153846154" y="53.0" />
+      <point x="492.49999999999994" y="53.0" />
+      <point x="0.0" y="14.0" />
+    </edge>
+    <edge source="java.util.stream.ReferencePipeline.StatefulOp" target="java.util.stream.ReferencePipeline" relationship="GENERALIZATION">
+      <point x="57.0" y="-14.0" />
+      <point x="636.0" y="214.0" />
+      <point x="332.5" y="214.0" />
+      <point x="332.5" y="204.0" />
+      <point x="397.0" y="204.0" />
+      <point x="69.5" y="14.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="false" x="346.5" y="136.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
