@@ -248,6 +248,8 @@ public class Main {
      * @see Stream#collect(Collector)
      * @see Collectors
      * @see Collector
+     * @see Supplier
+     * @see BiConsumer
      * */
     public static void collector() {
         // Stream#collect(Supplier, BiConsumer, BiConsumer)

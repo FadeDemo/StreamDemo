@@ -48,6 +48,126 @@
                     <line>203</line>
                     <option name="timeStamp" value="9" />
                 </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>file://$PROJECT_DIR$/core/pipeline/src/main/java/org/fade/demo/streamdemo/pipeline/Main.java</url>
+                    <line>18</line>
+                    <option name="timeStamp" value="11" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$USER_HOME$/.jdks/corretto-11.0.13/lib/src.zip!/java.base/java/util/stream/ReferencePipeline.java</url>
+                    <line>170</line>
+                    <option name="timeStamp" value="12" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$USER_HOME$/.jdks/corretto-11.0.13/lib/src.zip!/java.base/java/util/stream/ReferencePipeline.java</url>
+                    <line>175</line>
+                    <option name="timeStamp" value="13" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$USER_HOME$/.jdks/corretto-11.0.13/lib/src.zip!/java.base/java/util/stream/ReferencePipeline.java</url>
+                    <line>194</line>
+                    <option name="timeStamp" value="14" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$USER_HOME$/.jdks/corretto-11.0.13/lib/src.zip!/java.base/java/util/stream/ReferencePipeline.java</url>
+                    <line>167</line>
+                    <option name="timeStamp" value="15" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$USER_HOME$/.jdks/corretto-11.0.13/lib/src.zip!/java.base/java/util/stream/ReferencePipeline.java</url>
+                    <line>191</line>
+                    <option name="timeStamp" value="16" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$USER_HOME$/.jdks/corretto-11.0.13/lib/src.zip!/java.base/java/util/stream/SortedOps.java</url>
+                    <line>133</line>
+                    <option name="timeStamp" value="17" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$USER_HOME$/.jdks/corretto-11.0.13/lib/src.zip!/java.base/java/util/stream/ReduceOps.java</url>
+                    <line>163</line>
+                    <option name="timeStamp" value="20" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$USER_HOME$/.jdks/corretto-11.0.13/lib/src.zip!/java.base/java/util/stream/ReduceOps.java</url>
+                    <line>168</line>
+                    <option name="timeStamp" value="21" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$USER_HOME$/.jdks/corretto-11.0.13/lib/src.zip!/java.base/java/util/stream/AbstractPipeline.java</url>
+                    <line>226</line>
+                    <option name="timeStamp" value="26" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$USER_HOME$/.jdks/corretto-11.0.13/lib/src.zip!/java.base/java/util/stream/ReferencePipeline.java</url>
+                    <line>569</line>
+                    <option name="timeStamp" value="27" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$USER_HOME$/.jdks/corretto-11.0.13/lib/src.zip!/java.base/java/util/stream/ReduceOps.java</url>
+                    <line>912</line>
+                    <option name="timeStamp" value="28" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$USER_HOME$/.jdks/corretto-11.0.13/lib/src.zip!/java.base/java/util/stream/AbstractPipeline.java</url>
+                    <line>473</line>
+                    <option name="timeStamp" value="29" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$USER_HOME$/.jdks/corretto-11.0.13/lib/src.zip!/java.base/java/util/stream/AbstractPipeline.java</url>
+                    <line>479</line>
+                    <option name="timeStamp" value="30" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$USER_HOME$/.jdks/corretto-11.0.13/lib/src.zip!/java.base/java/util/stream/AbstractPipeline.java</url>
+                    <line>518</line>
+                    <option name="timeStamp" value="31" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$USER_HOME$/.jdks/corretto-11.0.13/lib/src.zip!/java.base/java/util/stream/AbstractPipeline.java</url>
+                    <line>521</line>
+                    <option name="timeStamp" value="32" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$USER_HOME$/.jdks/corretto-11.0.13/lib/src.zip!/java.base/java/util/stream/AbstractPipeline.java</url>
+                    <line>482</line>
+                    <option name="timeStamp" value="33" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$USER_HOME$/.jdks/corretto-11.0.13/lib/src.zip!/java.base/java/util/ArrayList.java</url>
+                    <line>1654</line>
+                    <option name="timeStamp" value="34" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$USER_HOME$/.jdks/corretto-11.0.13/lib/src.zip!/java.base/java/util/stream/Sink.java</url>
+                    <line>257</line>
+                    <option name="timeStamp" value="35" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$USER_HOME$/.jdks/corretto-11.0.13/lib/src.zip!/java.base/java/util/stream/SortedOps.java</url>
+                    <line>391</line>
+                    <option name="timeStamp" value="36" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$USER_HOME$/.jdks/corretto-11.0.13/lib/src.zip!/java.base/java/util/stream/Sink.java</url>
+                    <line>252</line>
+                    <option name="timeStamp" value="37" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$USER_HOME$/.jdks/corretto-11.0.13/lib/src.zip!/java.base/java/util/ArrayList.java</url>
+                    <line>1535</line>
+                    <option name="timeStamp" value="38" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$USER_HOME$/.jdks/corretto-11.0.13/lib/src.zip!/java.base/java/util/stream/SortedOps.java</url>
+                    <line>394</line>
+                    <option name="timeStamp" value="39" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$USER_HOME$/.jdks/corretto-11.0.13/lib/src.zip!/java.base/java/util/stream/ReferencePipeline.java</url>
+                    <line>577</line>
+                    <option name="timeStamp" value="40" />
+                </line-breakpoint>
             </breakpoints>
         </breakpoint-manager>
     </component>

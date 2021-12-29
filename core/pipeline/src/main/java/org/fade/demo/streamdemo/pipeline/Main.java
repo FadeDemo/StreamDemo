@@ -16,7 +16,18 @@ public class Main {
         list.add("A");
         list.add("B");
         list.add("C");
-        List<String> collect = list.stream().filter("A"::equals).collect(Collectors.toList());
+        List<String> collect = list.stream().filter("A"::equals)
+                .sorted((x, y) -> {
+                    if (x == null) {
+                        return -1;
+                    } else if (y == null) {
+                        return 1;
+                    } else {
+                        return x.compareTo(y);
+                    }
+                })
+                .map(String::toLowerCase)
+                .collect(Collectors.toList());
         System.out.println(collect);
     }
 
