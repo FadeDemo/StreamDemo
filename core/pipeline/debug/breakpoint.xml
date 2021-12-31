@@ -168,6 +168,31 @@
                     <line>577</line>
                     <option name="timeStamp" value="40" />
                 </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$USER_HOME$/.jdks/corretto-11.0.13/lib/src.zip!/java.base/java/util/stream/ReduceOps.java</url>
+                    <line>156</line>
+                    <option name="timeStamp" value="41" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$USER_HOME$/.jdks/corretto-11.0.13/lib/src.zip!/java.base/java/util/ArrayList.java</url>
+                    <line>1642</line>
+                    <option name="timeStamp" value="42" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$USER_HOME$/.jdks/corretto-11.0.13/lib/src.zip!/java.base/java/util/stream/SortedOps.java</url>
+                    <line>384</line>
+                    <option name="timeStamp" value="43" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$USER_HOME$/.jdks/corretto-11.0.13/lib/src.zip!/java.base/java/util/ArrayList.java</url>
+                    <line>1540</line>
+                    <option name="timeStamp" value="44" />
+                </line-breakpoint>
+                <line-breakpoint enabled="true" type="java-line">
+                    <url>jar://$USER_HOME$/.jdks/corretto-11.0.13/lib/src.zip!/java.base/java/util/stream/SortedOps.java</url>
+                    <line>402</line>
+                    <option name="timeStamp" value="45" />
+                </line-breakpoint>
             </breakpoints>
         </breakpoint-manager>
     </component>
