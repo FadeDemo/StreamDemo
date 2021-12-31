@@ -251,3 +251,10 @@ List<String> collect = list.stream().filter("A"::equals)
 
 ##### 4. 执行后的结果（如果有）在哪里
 
+<table width="350px"><tr><td align="center">返回类型</td><td align="center">对应的结束操作</td></tr><tr><td>boolean</td><td>anyMatch() allMatch() noneMatch()</td></tr><tr><td>Optional</td><td>findFirst() findAny()</td></tr><tr><td>归约结果</td><td>reduce() collect()</td></tr><tr><td>数组</td><td>toArray()</td></tr></table>
+
+##### 尚未理解/描述清楚的地方
+
+* 代表结束操作的阶段 `TerminalOp` 是否有像中间操作一样以双链表的形式连接在一起，目前据我的理解是没有的，因为结束操作中调用的 `wrapSink()` 方法里的 `AbstractPipeline.this` 是可以查询出以往的所有操作的，所以 `TerminalOp` 就没有和中间阶段以双链表的形式链接起来。但是这样设计的目的优点是？：
+
+![breakpoint$AbstractPipeline$6](img/breakpoint$AbstractPipeline$6.png)
